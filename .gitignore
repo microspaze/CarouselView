@@ -14,5 +14,7 @@ iOS/bin
 iOS/obj
 UWP/bin
 UWP/obj
+.vs/
 packages
 *.userprefs
+*.csproj.user
